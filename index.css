@@ -2504,17 +2504,17 @@ ul.nav.nav-tabs.--dont-stack li.nav-item a {
     line-height: 20px;
 }
 
-.hl_conversations--message-body .message-body--aside .aside-texts-infos p i.icon-phone:before,.hl_conversations--message-body .message-body--aside .aside-texts-infos p i.icon-tag:before,.hl_conversations--message-body .message-body--aside .aside-texts-infos p i.icon.icon-mail.grey:before,.sidebar-v2-agency a.btn.btn-primary.btn-sched:before,.sidebar-v2-location a.btn.btn-primary.btn-sched:before,ul.nav.nav-tabs.--dont-stack li.nav-item a: before {
+.hl_conversations--message-body .message-body--aside .aside-texts-infos p i.icon-phone:before,.hl_conversations--message-body .message-body--aside .aside-texts-infos p i.icon-tag:before,.hl_conversations--message-body .message-body--aside .aside-texts-infos p i.icon.icon-mail.grey:before,.sidebar-v2-agency a.btn.btn-primary.btn-sched:before,.sidebar-v2-location a.btn.btn-primary.btn-sched:before,ul.nav.nav-tabs.--dont-stack li.nav-item a:before {
     font-family:'FontAwesome';
 }
 
-ul.nav.nav-tabs.--dont-stack li.nav-item a#sms-tab: before {
+ul.nav.nav-tabs.--dont-stack li.nav-item a#sms-tab:before {
     content:'\f075';
     position: relative; 
     margin-right: 5px;
 }
 
-ul.nav.nav-tabs.--dont-stack li.nav-item a#email-tab: before {
+ul.nav.nav-tabs.--dont-stack li.nav-item a#email-tab:before {
     content:'\f0e0';
     position: relative;
     margin-right: 5px;
