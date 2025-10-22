@@ -4634,21 +4634,6 @@ button.hr-button.hr-button--primary-type:not(.quaternary, .show-more, .hl-text-b
     --folder-icon-color: #ffffff;
 }
 
-.sidebar-v2-location .agency-logo-container img,.sidebar-v2-location .agency-logo-container svg,.sidebar-v2-location .hl_navbar--logo img,.sidebar-v2-location .hl_navbar--logo svg {
-    display: none!important;
-}
-
-.sidebar-v2-location .agency-logo-container:after,.sidebar-v2-location .hl_navbar--logo:after {
-    content: '';
-    position: relative;
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center center;
-    height: 80px!important;
-    width: 100%!important;
-    max-width: 100%!important;
-    background-image: url('');
-}
 
 .sidebar-v2-location #sidebar-v2 .hl_nav-header,.sidebar-v2-location #sidebar-v2 .hl_nav-settings {
     overflow-y: auto;
